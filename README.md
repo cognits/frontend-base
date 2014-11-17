@@ -5,5 +5,5 @@ should be to include this repository as a [git submodule](http://git-scm.com/boo
 doing the following inside the new project repository:
 
 ```
-git submodule add https://github.com/cognits/frontend-base.git
+git submodule add https://github.com/cognits/frontend-base.git app
 ```
